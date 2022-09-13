@@ -2,9 +2,8 @@
 <br />
 Nombre: **Renzo Costanzo**
 <br />
+<br />
 ``Hola mundo``**, me pidieron crear este repo para la facultad, esta buena la idea je**
-
-
 _Estudio ingenieria en sistemas a la vez que dedico el resto de mi tiempo a un emprendimiento llamdo_ [VIATIK](https://www.viatik.com.uy)
 Si queres saber mas de mi en mi **[LinkedIn](https://www.linkedin.com/in/renzocostanzo/)** esta todo
 
