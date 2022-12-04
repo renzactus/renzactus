@@ -2,7 +2,6 @@
 <br />
 Nombre: **Renzo Costanzo**
 <br />
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="renzocostanzo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uy.linkedin.com/in/renzocostanzo?trk=profile-badge">Renzo Costanzo</a></div>
               
 <br />
 ``Hola mundo``, me pidieron crear este repo para la facultad, esta buena la idea. 
